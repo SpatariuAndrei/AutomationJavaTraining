@@ -1,5 +1,0 @@
-
-_squid:S1192^"HDefine a constant instead of duplicating this literal "reports" 3 times.(òé¢µ
-Fsquid:S10680"*Remove this unused "logger" private field.(íÝÕ°øÿÿÿÿ
-vsquid:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖÔ­úûÿÿÿÿ
-vsquid:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(À¹ï÷úÿÿÿÿ
