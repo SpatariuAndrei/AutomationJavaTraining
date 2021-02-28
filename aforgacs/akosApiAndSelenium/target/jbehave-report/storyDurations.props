@@ -1,6 +1,0 @@
-#org.jbehave.core.embedder.StoryManager
-#Wed Aug 07 12:24:41 EEST 2019
-threads=1
-total=1000
-threadAverage=1000
-stories/moreProductInCart.story=1000
