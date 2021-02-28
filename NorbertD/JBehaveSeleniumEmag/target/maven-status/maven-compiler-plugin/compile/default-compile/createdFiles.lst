@@ -1,8 +1,0 @@
-com\test\jbehave\EmagStories.class
-com\test\jbehave\steps\LifeCycleSteps.class
-com\test\jbehave\pages\SearchResult.class
-com\test\jbehave\pages\Cart.class
-com\test\jbehave\base\Driver.class
-com\test\jbehave\base\Page.class
-com\test\jbehave\pages\Home.class
-com\test\jbehave\steps\EmagSteps.class
